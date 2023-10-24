@@ -14,3 +14,5 @@ export function performSearch(inputValue) {
     }
   });
 }
+
+console.log('안녕');
