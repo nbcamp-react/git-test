@@ -1,5 +1,5 @@
 'use strict';
-
+console.log('search');
 export function performSearch(inputValue) {
   const searchText = inputValue.toLowerCase();
   const $movieCards = document.querySelectorAll('.movie-card');
