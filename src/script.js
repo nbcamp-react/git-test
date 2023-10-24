@@ -13,3 +13,4 @@ $form.addEventListener('submit', (event) => {
 
 console.log('hi');
 console.log('bye');
+console.log('bye');
