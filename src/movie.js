@@ -32,3 +32,4 @@ export const generateMovieCards = async (
 
   $movieList.addEventListener('click', handleClickCard);
 };
+console.log("testbanna")
