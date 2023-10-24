@@ -10,3 +10,5 @@ $form.addEventListener('submit', (event) => {
   event.preventDefault();
   performSearch($searchInput.value);
 });
+
+console.log('hi');
