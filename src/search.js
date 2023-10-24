@@ -14,3 +14,4 @@ export function performSearch(inputValue) {
     }
   });
 }
+console.log(tired);
